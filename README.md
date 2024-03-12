@@ -6,6 +6,6 @@ A project to calculate shortest paths from source using **Dijkstra Algorithm** b
 ### Setup & Installation
 * Install VS Code: https://code.visualstudio.com/download and then download the C/C++ extension by Microsoft. Use mingw as compiler
 * Code Blocks: https://www.codeblocks.org/downloads/ with default settings. 
-* Clone the repo and run the code.
+* Clone the repo  and run the code.
 
-If you find my repository helpful, please star⭐ it 🌟.
+###### If you find my repository helpful, please star⭐ it 🌟.
